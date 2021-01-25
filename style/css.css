@@ -1,0 +1,27 @@
+
+*{font-family:Yusei Magic, sans-serif;}
+
+h1 {
+	color: yellow;
+}
+
+img 
+{
+	width: 10%;
+}
+
+.banner 
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/soap.jpg");
+    color: white;
+    text-align: center;
+    height: 80vh;
+    background-size: cover !important;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+}
